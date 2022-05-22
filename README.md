@@ -1,1 +1,2 @@
-# Ph-n-t-ch-c-ng-b-n-tay
+# Project cuối kỳ HMI 21-22
+# Sử dụng pycharm
